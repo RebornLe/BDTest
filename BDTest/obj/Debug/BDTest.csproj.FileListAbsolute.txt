@@ -1,0 +1,11 @@
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\bin\Debug\BDTest.exe.config
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\bin\Debug\BDTest.exe
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\bin\Debug\BDTest.pdb
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\obj\Debug\BDTest.csprojAssemblyReference.cache
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\obj\Debug\BDTest.Form1.resources
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\obj\Debug\BDTest.Properties.Resources.resources
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\obj\Debug\BDTest.csproj.GenerateResource.cache
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\obj\Debug\BDTest.csproj.CoreCompileInputs.cache
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\obj\Debug\BDTest.exe
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\obj\Debug\BDTest.pdb
+D:\软件\Microsoft Visual Studio\workspace\BDTest\BDTest\obj\Debug\BDTest.Form2.resources
